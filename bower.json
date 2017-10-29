@@ -1,0 +1,17 @@
+{
+  "name": "AngularTest",
+  "homepage": "https://github.com/hkussie/ChromeExtension",
+  "authors": [
+    "hkussie <hkussie@gmail.com>"
+  ],
+  "description": "Appliction that uses AngularMaterial to create the UI",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
