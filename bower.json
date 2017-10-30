@@ -1,10 +1,10 @@
 {
   "name": "AngularTest",
-  "homepage": "https://github.com/hkussie/ChromeExtension",
+  "homepage": "https://github.com/hkussie/AngularMaterial-UI-Application",
   "authors": [
     "hkussie <hkussie@gmail.com>"
   ],
-  "description": "Appliction that uses AngularMaterial to create the UI",
+  "description": "A UI for a generic application using AngularMaterial",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
