@@ -3,5 +3,5 @@
 angular.module('myApp', ['ngMaterial'])
   
   .controller('headerCtrl', ['$scope', function($scope) {
-  	$scope.header = "Generic Application";
+  	$scope.header = "PictureBoard Application";
   }]);
